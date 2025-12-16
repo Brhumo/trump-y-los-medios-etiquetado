@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "Brhumo",
+    "is_private": false,
+    "title": "Ejercicio GLAM -Trump y los medios - Rompeviento TV",
+    "description": "Esta emisión del programa de entrevistas Megáfono, emitido por el canal de internet Rompeviento Televisión, analiza el ascenso de Donald Trump y su relación conflictiva con los medios. Los invitados Juan Carlos Altamirano, corresponsal de Univisión, y Alfredo Lecona, activista, examinan cómo su discurso nacionalista y xenófobo se apoyó en un ecosistema comunicacional capaz de amplificar desinformación y hostilidad, y cómo este estilo tensiona la libertad de expresión en Estados Unidos y otros países. A la vez, se discute el rol de los medios tradicionales e independientes frente a esta deriva, la fragilidad de las instituciones democráticas, la necesidad de defender internet como espacio plural y los paralelos con América Latina, especialmente México, donde la concentración mediática y la publicidad oficial condicionan la cobertura. El diálogo concluye subrayando la urgencia de sostener un periodismo crítico ante gobiernos que buscan deslegitimarlo",
+    "language": "es",
+    "slug": "trump-y-los-medios-etiquetado",
+    "creator": "Brhumo",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-12-16T23:25:20.576Z",
+    "updated_at": "2025-12-16T23:25:20.576Z"
   }
 }
